@@ -1,12 +1,9 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="AddCoinsPickupEffect" preserve="all" />
-    <type fullname="DamageAllEnemiesPickupEffect" preserve="all" />
     <type fullname="EnemyAttack" preserve="all" />
     <type fullname="EnemyHealth" preserve="all" />
     <type fullname="EnemyHealthBar" preserve="all" />
     <type fullname="EnemyMovement" preserve="all" />
-    <type fullname="HealPlayerPickupEffect" preserve="all" />
     <type fullname="WorldPickup" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
